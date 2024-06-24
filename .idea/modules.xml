@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CaixaEletronico/CaixaEletronico.iml" filepath="$PROJECT_DIR$/CaixaEletronico/CaixaEletronico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conta banco/Conta banco.iml" filepath="$PROJECT_DIR$/Conta banco/Conta banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploFor/ExemploFor.iml" filepath="$PROJECT_DIR$/ExemploFor/ExemploFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemplosWhile/ExemplosWhile.iml" filepath="$PROJECT_DIR$/ExemplosWhile/ExemplosWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FundamentosdaProgramacao/FundamentosdaProgramacao.iml" filepath="$PROJECT_DIR$/FundamentosdaProgramacao/FundamentosdaProgramacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projeto-F1RTS.iml" filepath="$PROJECT_DIR$/.idea/Projeto-F1RTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tipos e Variaveis/Tipos e Variaveis.iml" filepath="$PROJECT_DIR$/Tipos e Variaveis/Tipos e Variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anatomia das classes/java-anatomia/java-anatomia.iml" filepath="$PROJECT_DIR$/Anatomia das classes/java-anatomia/java-anatomia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula3/java-anatomia-aula3.iml" filepath="$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula3/java-anatomia-aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula4/java-anatomia-aula4.iml" filepath="$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula4/java-anatomia-aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula5/java-anatomia-aula5.iml" filepath="$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula5/java-anatomia-aula5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula5/src/java-anatomia-aula51.iml" filepath="$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula5/src/java-anatomia-aula51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula6/java-anatomia-aula6.iml" filepath="$PROJECT_DIR$/Anatomia das classes/java-anatomia-aula6/java-anatomia-aula6.iml" />
+    </modules>
+  </component>
+</project>
